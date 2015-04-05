@@ -5,6 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
+comments: true
 
 
 defaults:
@@ -12,17 +13,20 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      # title: Bo PANG
+      title: 
 
 description: Stylish Jekyll Theme
+
 author:
-  name: Bo PANG
+  name: Bo Pang
   email: pangboww@gmail.com
   github: pangboww
   twitter: pangboww
-  # pinterest: pangboww
+  pinterest: pangboww
   linkedin: pangboww
-  # bio: Your stylish, minimalist theme!
+  resume: pangboww
+
+  bio: On the way of becoming a full stack developer
   email_md5: 2ca994eeb4f586d67019ce3eceab3d46
 
 rss_path: feed.xml

@@ -36,6 +36,13 @@ a.nav-link i{
 }
 a.nav-link:hover { color: #777 }
 
+#name {
+	font-family: sans-serif, Courier, monospace;
+	font-size: 26px;
+	font-weight:bold;
+	margin: 0 auto;
+	margin-bottom: 10px;}
+
 #bio {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 11px;
@@ -82,8 +89,8 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
-	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+	margin:10px 0px 20px;
+	color: #2A75A7;
 }
 
 article{
