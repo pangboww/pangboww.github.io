@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-categories: [general，f]
+categories: [general]
 tags: 
 fullview: true
 description: 
