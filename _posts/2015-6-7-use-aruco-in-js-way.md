@@ -13,7 +13,8 @@ During my AR final project, I used ArUco as the detecter to my real world and im
 ###Introduction to ArUco
 [ArUco](http://www.uco.es/investiga/grupos/ava/node/26) is a minimal library for Augmented Reality applications based on OpenCv. Its main features are:
 
-- Detect markers with a single line of C- Detection of AR boards (markers composed by several markers)
+- Detect markers with a single line of C++ code
+- Detection of AR boards (markers composed by several markers)
 - Requires only OpenCv (>=2.1)
 - Up to to 1024 different markers
 - Trivial integration with OpenGL and OGRE
